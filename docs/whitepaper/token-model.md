@@ -4,7 +4,9 @@ sidebar_position: 9
 
 # Token Model
 
-![Token Model](/img/content/whitepaper/token-model-2.webp)
+<p align="center">
+  <img width="50%" src="https://docs.okp4.network/img/content/whitepaper/token-model-2.webp">
+</p>
 
 ## Utility
 
